@@ -18,6 +18,9 @@
     </properties>
 
 
+	
+
+
     <dependencies>
 
         <dependency>
@@ -151,4 +154,16 @@
         </plugins>
     </build>
 
+
+
+<developers>
+
+<developer>
+
+<name>Julio Cesar </name>
+<email> rocha105@icloud.com</email>
+
+</developer>
+
+</developers>
 </project>
